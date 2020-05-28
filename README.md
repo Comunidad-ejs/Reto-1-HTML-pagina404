@@ -35,3 +35,4 @@ http://www.flexboxdefense.com/
 
 
 
+Si quieren mejorar el proyecto o tienen cualquier aporte o duda no duden con contactarmen https://twitter.com/alejozepol estoy para ayudarles.
